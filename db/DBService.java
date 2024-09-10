@@ -1,3 +1,5 @@
+package db;
+
 import Animals.AnimalDto;
 
 import java.sql.*;
