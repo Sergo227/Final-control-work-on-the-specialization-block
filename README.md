@@ -183,7 +183,7 @@ history
 
 ### 6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: лошади, верблюды и ослы).
 
-[https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1#G1-gEMiji0-sIQ_MWsWpHr--5FpARTW7Vr]
+https://drive.google.com/file/d/1-gEMiji0-sIQ_MWsWpHr--5FpARTW7Vr/view?usp=sharing
 
 ### 7. В подключенном MySQL репозитории создать базу данных "Друзья человека"
 
